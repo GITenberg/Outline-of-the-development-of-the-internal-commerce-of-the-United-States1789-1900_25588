@@ -1,0 +1,29 @@
+_repo: Outline-of-the-development-of-the-internal-commerce-of-the-United-States1789-1900_25588
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Metre, Thurman William
+    alias: Metre, Thurman William Van
+    birthdate: 1884
+    deathdate: 1961
+    gutenberg_agent_id: '31438'
+    url: http://www.gutenberg.org/2009/agents/31438
+description: ''
+gutenberg_issued: '2008-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25588'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Commerce -- History'
+- !lcc 'HF'
+title: 'Outline of the development of the internal commerce of the United States
+
+  1789-1900'
+url: http://www.gutenberg.org/ebooks/25588
