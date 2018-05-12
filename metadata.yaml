@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31438'
     url: http://www.gutenberg.org/2009/agents/31438
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25588#Outline-of-the-development-of-the-internal-commerce-of-the-United-States1789-1900
 gutenberg_issued: '2008-05-24'
 gutenberg_type: Text
 identifiers:
